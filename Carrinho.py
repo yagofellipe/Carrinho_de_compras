@@ -34,4 +34,4 @@ carrinho.inserir_produto(pi)
 carrinho.inserir_produto(serv)
 
 carrinho.lista_produto()
-print(carrinho.soma_total())
+print(carrinho.soma_total()) 
